@@ -51,7 +51,7 @@ Model (SQLite Star Schema) → SQL / KPIs → Business Decisions
 
 ## 5. Star Schema Diagram
 
-![Star Schema](docs/Diagrama de clases.png)
+![Star Schema](docs/Diagrama_de_clases.png)
 
 - **Fact table:** `fact_sales`, connected to four dimensions through foreign
   keys on their surrogate primary keys.
